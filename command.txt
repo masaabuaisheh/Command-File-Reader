@@ -1,0 +1,13 @@
+12
+insert Mall
+insert Me
+insert Mat
+insert Cat
+insert Rat
+insert Mandy
+delete Mandy
+startwith Ma
+search Cat
+search Me
+search Mandy
+longest
